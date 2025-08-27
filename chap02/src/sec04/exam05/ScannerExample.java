@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ScannerExample {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		Scanner scanner = new Scanner(System.in);
 		String inputData;
 		
@@ -14,6 +14,7 @@ public class ScannerExample {
 			if (inputData.equals("q")) break;
 		}
 		
+		scanner.close();
 		System.out.println("종료");
 		
 	}
