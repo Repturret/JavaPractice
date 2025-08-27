@@ -9,11 +9,11 @@ public class LogicalOperatorExample {
 			System.out.println("대문자군요");
 		}
 		
-		if ((charCode >= 97) & (charCode <= 122)) {
+		if ((charCode >= 97) && (charCode <= 122)) {
 			System.out.println("소문자군요");
 		}
 		
-		if (!(charCode < 48) & !(charCode > 57)) {
+		if (!(charCode < 48) && !(charCode > 57)) {
 			System.out.println("0~9 숫자군요");
 		}
 		
@@ -23,7 +23,7 @@ public class LogicalOperatorExample {
 			System.out.println("2 또는 3의 배수군요");
 		}
 		
-		if ((value % 2 == 0) | (value % 3 == 0)) {
+		if ((value % 2 == 0) || (value % 3 == 0)) {
 			System.out.println("2 또는 3의 배수군요");
 		}
 		
