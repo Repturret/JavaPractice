@@ -13,8 +13,6 @@ public class KeyCodeExample {
 		
 		keyCode = System.in.read();
 		System.out.println("keyCode: " + keyCode);
-		
-		// test
 
 	}
 
