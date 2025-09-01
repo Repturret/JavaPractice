@@ -1,4 +1,4 @@
-package chap04.sec01.exam03;
+package sec01.exam03;
 
 public class IfElseIfElseExample {
 

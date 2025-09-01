@@ -1,4 +1,4 @@
-package chap04.sec01.exam06;
+package sec01.exam06;
 
 public class SwitchNoBreakCaseExample {
 

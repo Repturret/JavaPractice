@@ -1,4 +1,4 @@
-package chap04.sec02.exam03;
+package sec02.exam03;
 
 public class ForSumFrom1To100Example2 {
 

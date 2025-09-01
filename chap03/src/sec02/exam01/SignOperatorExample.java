@@ -1,4 +1,4 @@
-package chap03.sec02.exam01;
+package sec02.exam01;
 
 public class SignOperatorExample {
 

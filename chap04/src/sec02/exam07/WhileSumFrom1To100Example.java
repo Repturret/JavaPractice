@@ -1,4 +1,4 @@
-package chap04.sec02.exam07;
+package sec02.exam07;
 
 public class WhileSumFrom1To100Example {
 

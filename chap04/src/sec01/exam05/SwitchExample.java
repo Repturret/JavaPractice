@@ -1,4 +1,4 @@
-package chap04.sec01.exam05;
+package sec01.exam05;
 
 public class SwitchExample {
 

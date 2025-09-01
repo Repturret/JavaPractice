@@ -1,4 +1,4 @@
-package chap04.sec01.exam04;
+package sec01.exam04;
 
 public class IfDiceExample {
 

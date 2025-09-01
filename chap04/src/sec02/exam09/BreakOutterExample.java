@@ -1,4 +1,4 @@
-package chap04.sec02.exam09;
+package sec02.exam09;
 
 public class BreakOutterExample {
 

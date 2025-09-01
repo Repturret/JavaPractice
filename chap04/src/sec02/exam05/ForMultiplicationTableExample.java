@@ -1,4 +1,4 @@
-package chap04.sec02.exam05;
+package sec02.exam05;
 
 public class ForMultiplicationTableExample {
 

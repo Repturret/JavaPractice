@@ -1,4 +1,4 @@
-package chap03.sec02.exam11;
+package sec02.exam11;
 
 public class ConditionalOperationExample {
 

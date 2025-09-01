@@ -1,4 +1,4 @@
-package chap04.sec02.exam10;
+package sec02.exam10;
 
 public class ContinueExample {
 

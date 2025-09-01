@@ -1,4 +1,4 @@
-package chap03.sec02.exam03;
+package sec02.exam03;
 
 public class DenyLogicOperatorExample {
 

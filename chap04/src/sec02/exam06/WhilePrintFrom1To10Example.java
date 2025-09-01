@@ -1,4 +1,4 @@
-package chap04.sec02.exam06;
+package sec02.exam06;
 
 public class WhilePrintFrom1To10Example {
 

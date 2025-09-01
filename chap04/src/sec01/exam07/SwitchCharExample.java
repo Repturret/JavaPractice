@@ -1,4 +1,4 @@
-package chap04.sec01.exam07;
+package sec01.exam07;
 
 public class SwitchCharExample {
 

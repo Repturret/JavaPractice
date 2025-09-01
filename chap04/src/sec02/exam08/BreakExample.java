@@ -1,4 +1,4 @@
-package chap04.sec02.exam08;
+package sec02.exam08;
 
 public class BreakExample {
 

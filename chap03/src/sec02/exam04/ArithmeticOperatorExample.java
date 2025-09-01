@@ -1,4 +1,4 @@
-package chap03.sec02.exam04;
+package sec02.exam04;
 
 public class ArithmeticOperatorExample {
 

@@ -1,4 +1,4 @@
-package chap04.sec02.exam01;
+package sec02.exam01;
 
 public class ForPrintFrom1To10Example {
 
