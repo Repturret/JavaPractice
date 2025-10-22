@@ -4,6 +4,6 @@
     <fullyQualifiedTypeName name="sec03.exam04.Car"/>
     <fullyQualifiedTypeName name="sec06.exam02.hankook.Tire"/>
     <fullyQualifiedTypeName name="exam1015.OrderItem"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
