@@ -13,7 +13,7 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/Users/ryujisung/Library/Java/JavaVirtualMachines/jdk-21.0.8.jdk/Contents/Home" version="21.0.8"/>
-    <libraryInfo home="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" version="1.8.0_461">
+    <libraryInfo home="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" version="1.8.0_471">
         <bootpath>
             <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/resources.jar"/>
             <entry path="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/rt.jar"/>
