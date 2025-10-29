@@ -5,5 +5,9 @@
     <fullyQualifiedTypeName name="sec06.exam02.hankook.Tire"/>
     <fullyQualifiedTypeName name="exam1015.OrderItem"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="sec01.exam05.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec01.exam05.Searchable"/>
+    <fullyQualifiedTypeName name="sec01.exam04.Audio"/>
+    <fullyQualifiedTypeName name="sec01.exam04.Television"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
